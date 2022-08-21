@@ -1,0 +1,196 @@
+@charset "utf-8";
+
+body{
+  font-size:16px;
+}
+#wrap{
+  font:16px/30px Arial,sans-serif;
+  color:#595959;
+  position:relative;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.hide{
+  width:0; height:0;
+  font-size:0; line-height:0;
+  position:absolute; visibility:hidden;
+}
+
+/* header */
+#headerWrap{
+  background-color:#81d8d0;
+  padding:20px 0;
+  width:100%
+}
+#headerWrap>header{
+  width:1200px;
+  margin:0 auto;
+}
+#headerWrap>header>h1{ 
+  text-align: center;
+}
+
+/* main */
+#sec01, #sec02, #sec03{
+  margin-bottom:100px;
+}
+/* sec01 */
+h2.sec01Top{
+  width:100%;
+  height:600px;
+  margin:0 auto;
+  background:linear-gradient(to bottom, #81d8d0, #d1f1ed, white);
+}
+h2.sec01Top>div{
+  width:1200px;
+  height:100%;
+  margin:0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:url('../public/img/main/box01-01.png') no-repeat bottom 100px center;
+  background-size: 300px;
+}
+section.sec01{
+  width:1200px;
+  margin:0 auto;
+  text-align: center;
+}
+section.sec01>h2{
+  font-size:54px;
+  font-weight:bold;
+  font:bold 54px/60px 'Times New Roman', Times, serif;
+  margin-bottom:50px;
+}
+section.sec01>section{
+  display: flex;
+  justify-content: space-between;
+}
+section.sec01>section>.text{
+  text-align:left;
+  width:45%;
+  box-sizing: border-box;
+}
+section.sec01>section>.image{
+  width:30%;
+  box-sizing: border-box;
+}
+section.sec01>section>.image>img{
+  width:
+}
+
+/* sec02 */
+h3.sec02Top{
+  width:100%;
+  height:440px;
+  margin:0 auto;
+  background:linear-gradient(to top, #bbe8e4, #d1f1ed, white);
+}
+h3.sec02Top>div{
+  width:1200px;
+  height:100%;
+  margin:0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:url('../public/img/main/gifts_gifts1_bg2.png') no-repeat left bottom 50px, 
+             url('../public/img/main/gifts_gifts1_bg1.png') no-repeat right top;
+}
+h3.sec02Top>div>span{
+  font-size:100px;
+  display: block;
+  color:white;
+  font-family:'Times New Roman', Times, serif;
+  text-shadow: 3px 3px 5px rgb(0,0,0,0.7);
+}
+section.sec02{
+  width:930px;
+  padding:40px 0 35px;
+  margin: 0 auto;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+section.sec02>figure{
+  width:220px;
+  padding-bottom:15px;
+  background-color: #f2f2f2;
+  text-align: center;
+  padding:30px 0 10px;
+}
+section.sec02>figure>img{
+  margin-bottom:15px;
+}
+section.sec02>figure>figcaption{
+  font:bold 15px '나눔고딕',sans-serif; 
+  color:#666;
+}
+
+/* sec03 */
+h3.sec03Top{
+  background:linear-gradient(45deg, #f4e5ee 15%,  #c6beda 80%);
+  height:440px;
+}
+h3.sec03Top>div{
+  width:1200; height:100%;
+  margin:0 auto;
+  background:url('../public/img/main/gifts_gifts2_bg2.png') no-repeat right bottom;
+  position:relative;
+}
+h3.sec03Top>div>span{
+  display: block;
+  position:absolute;
+  left:0; top:50%;
+  width:100%;
+  font:bold  79px/79px 'Times New Roman', Times, serif;
+  color:white;
+  /* background-color: brown; */
+  margin-top:-39.6px;
+  text-align: center;
+  text-shadow:3px 3px 5px rgba(0,0,0,0.7)
+}
+section.sec03{
+  width:930px;
+  padding:40px 0 35px;
+  margin: 0 auto;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+section.sec03>figure{
+  width:220px;
+  padding-bottom:15px;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+section.sec03>figure>img{
+  margin-bottom:15px;
+}
+section.sec03>figure>figcaption{
+  font:bold 15px '나눔고딕',sans-serif; 
+  color:#666;
+}
+
+/* footer */
+div#footerwrap{
+  padding:20px 0 28px;
+  background-color:#81d8d0;
+  text-align:center;
+}
+div#footerwrap>footer{
+  width:1200px;
+  margin:0 auto;
+  color:white;
+  font:10px/15px '나눔고딕',sans-serif;
+}
+footer>dl>dt, footer>dl>dd{
+  display: inline;
+}
+address{
+  font-style: normal;
+}
+
+/* 스몰 */
+footer>small{}
