@@ -1,29 +1,31 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import './all.css'
+import './Rings.css'
 
-function Sec03(){
+function Rings(){
   return (
-    <article id="sec03">
-    <h3 className="sec03Top">
+    <article>
+    <h3 id="backR">
       <div>
-        <span>Capture her world</span>
+        <span>Rings</span>
       </div>
     </h3>
-    <section className="sec03">
+    <section>
       <figure>
-        <img src="./img/main/box02-01.png" alt="상품1" />
+        <img src="../../img/rings/rings01.png" alt="상품1" />
         <figcaption>제품1</figcaption>
       </figure>
       <figure>
-        <img src="./img/main/box02-02.png" alt="상품2" />
+        <img src="../../img/rings/rings02.png" alt="상품2" />
         <figcaption>제품2</figcaption>
       </figure>
       <figure>
-        <img src="./img/main/box02-03.png" alt="상품3" />
+        <img src="../../img/rings/rings03.png" alt="상품3" />
         <figcaption>제품3</figcaption>
       </figure>
       <figure>
-        <img src="./img/main/box02-04.png" alt="상품4" />
+        <img src="../../img/rings/rings04.png" alt="상품4" />
         <figcaption>제품4</figcaption>
       </figure>
     </section>
@@ -31,4 +33,4 @@ function Sec03(){
   )
 }
 
-export default Sec03
+export default Rings

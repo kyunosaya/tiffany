@@ -1,0 +1,14 @@
+/* footer */
+footer{
+    padding:20px 0 28px;
+    background-color:#81d8d0;
+    text-align:center;
+    color:white;
+    font:10px/15px '나눔고딕',sans-serif;
+  }
+  footer>dl>dt, footer>dl>dd{
+    display: inline;
+  }
+  address{
+    font-style: normal;
+  }

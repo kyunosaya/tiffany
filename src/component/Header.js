@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import {Link} from 'react-router-dom'
+import './Header.css'
 
 function Header(){
   return (
     <header>
     <h1>
-      <a href="#">
-        <img src="./img/logo.png" alt="Tiffany" />
-      </a>
+      <Link to="/"><img src="./img/logo.png" alt="Tiffany" /></Link>
     </h1>
   </header>
   )

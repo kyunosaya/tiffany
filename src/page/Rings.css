@@ -1,0 +1,7 @@
+#backR{
+    background:linear-gradient(to right, #ffaa00, #ffd787, white);
+  }
+  #backR>div{
+    background:url('../../public/img/main/gifts_gifts1_bg2.png') no-repeat left bottom 50px
+  }
+  

@@ -1,0 +1,7 @@
+  #backE{
+    background:linear-gradient(45deg, #f4e5ee 15%,  #c6beda 80%)
+  }
+  #backE>div{
+    background:url('../../public/img/main/gifts_gifts2_bg2.png') no-repeat right bottom;
+  }
+  

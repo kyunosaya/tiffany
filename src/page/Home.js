@@ -1,13 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import './all.css'
+import './Home.css'
 
-function Sec01({appointment,id,name}){
+function Home({appointment,id,name}){
   return (
-    <article id="sec01">
-    <h2 className="sec01Top">
+    <article>
+    <h2>
       <div></div>
     </h2>
-    <section className="sec01">
+    <section>
       <h2>Wave Bracelet</h2>
       <section>
         <div className="text">
@@ -23,4 +25,4 @@ function Sec01({appointment,id,name}){
   )
 }
 
-export default Sec01
+export default Home

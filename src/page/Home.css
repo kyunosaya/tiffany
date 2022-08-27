@@ -1,0 +1,41 @@
+/* sec01 */
+  article>h2{
+    width:100%;
+    height:600px;
+    margin:0 auto;
+    background:linear-gradient(to bottom, pink, #d1f1ed, white);
+  }
+  article>h2>div{
+    width:1200px;
+    height:100%;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:url('../../public/img/main/box01-01.png') no-repeat bottom 100px center;
+    background-size: 300px;
+  }
+  article>section{
+    width:1200px;
+    margin:0 auto;
+    text-align: center;
+  }
+  article>section>h2{
+    font-size:54px;
+    font-weight:bold;
+    font:bold 54px/60px 'Times New Roman', Times, serif;
+    margin-bottom:50px;
+  }
+  section>section{
+    display: flex;
+    justify-content: space-between;
+  }
+  .text{
+    text-align:left;
+    width:45%;
+    box-sizing: border-box;
+  }
+  .image{
+    width:30%;
+    box-sizing: border-box;
+  }
