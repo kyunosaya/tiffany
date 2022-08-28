@@ -20,7 +20,8 @@ article{
   margin-bottom:100px;
 }
 h3{
-  height:440px;
+  height:calc(100vh - 153px);
+  margin-bottom: 100px;
 }
 h3>div{
   width:1200px; height:100%;
@@ -38,15 +39,6 @@ h3>div>span{
   margin-top:-39.6px;
   text-align: center;
   text-shadow:3px 3px 5px rgba(0,0,0,0.7)
-}
-article>section{
-  width:930px;
-  padding:40px 0 35px;
-  margin: 0 auto;
-  display:flex;
-  flex-wrap:wrap;
-  justify-content: space-evenly;
-  box-sizing: border-box;
 }
 figure{
   width:220px;

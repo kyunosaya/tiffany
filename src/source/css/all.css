@@ -1,0 +1,31 @@
+.product{
+    width:1200px;
+    margin:0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.product>li{
+    width:18%;
+    box-sizing: border-box;
+    margin-bottom:20px;
+}
+.product>li>figure{
+    width:100%;
+    padding:15px;
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+    border: 1px solid #dfdfdf;
+} 
+.product>li>figure>img{}
+.product>li>figure>figcaption{}
+.product>li>figure>figcaption>p:first-child{
+    margin-bottom: 40px;
+}
+.product>li>figure>figcaption>p:last-child{
+    position: absolute;
+    bottom:20px; left:50%;
+    margin-left:-18px;
+    font-weight: normal;
+}

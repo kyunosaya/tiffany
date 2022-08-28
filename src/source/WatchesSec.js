@@ -1,17 +1,18 @@
-import data from './data.json'
+import data from './json/watches.json'
+import './css/all.css'
 
 function WatchesSec(){
     return (
-        <ul>
+        <ul className='product'>
             {
-                data.map((item) => {
+                data.map((item,index) => {
                     return (
-                        <li key={item.id}>
+                        <li key={index}>
                             <figure>
-                                {item.image}
+                                <img src={item.watchesImage} alt={item.watchesName} />
                                 <figcaption>
-                                    <p>{item.name}</p>
-                                    <p>{item.image}</p>
+                                    <p>{item.watchesName}</p>
+                                    <p>{item.watchesPrice}</p>
                                 </figcaption>
                             </figure>
                         </li>

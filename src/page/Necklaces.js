@@ -1,5 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+
+//source
+import NecklacesSec from '../source/NecklacesSec'
+
+//css
 import './all.css'
 import './Necklaces.css'
 
@@ -12,22 +17,7 @@ function Necklaces(){
       </div>
     </h3>
     <section>
-      <figure>
-        <img src="../../img/necklaces/necklaces01.png" alt="상품1" />
-        <figcaption>제품1</figcaption>
-      </figure>
-      <figure>
-        <img src="../../img/necklaces/necklaces02.png" alt="상품2" />
-        <figcaption>제품2</figcaption>
-      </figure>
-      <figure>
-        <img src="../../img/necklaces/necklaces03.png" alt="상품3" />
-        <figcaption>제품3</figcaption>
-      </figure>
-      <figure>
-        <img src="../../img/necklaces/necklaces04.png" alt="상품4" />
-        <figcaption>제품4</figcaption>
-      </figure>
+      <NecklacesSec />
     </section>
 </article>
   )

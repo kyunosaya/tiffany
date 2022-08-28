@@ -1,9 +1,9 @@
 [
   {
     "id":0,
-    "necklacesName":"Tiffany T T1 circle pendant in 18k rose gold with diamonds",
-    "necklacesPrice":"7800",
-    "necklacesImage":"/img/necklaces/necklaces01.png",
+    "name":"Tiffany T T1 circle pendant in 18k rose gold with diamonds",
+    "price":"7800",
+    "image":"/img/necklaces/necklaces01.png",
     "kind":"necklaces"
   },
   {

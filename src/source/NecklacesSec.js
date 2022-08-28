@@ -1,17 +1,18 @@
-import data from './data.json'
+import data from './json/necklaces.json'
+import './css/all.css'
 
 function NecklacesSec(){
     return (
-        <ul>
+        <ul className='product'>
             {
-                data.map((item) => {
+                data.map((item,index) => {
                     return (
-                        <li key={item.id}>
+                        <li key={index}>
                             <figure>
-                                {item.image}
+                                <img src={item.necklacesImage} alt={item.necklacesName} />
                                 <figcaption>
-                                    <p>{item.name}</p>
-                                    <p>{item.image}</p>
+                                    <p>{item.necklacesName}</p>
+                                    <p>{item.necklacesPrice}</p>
                                 </figcaption>
                             </figure>
                         </li>
