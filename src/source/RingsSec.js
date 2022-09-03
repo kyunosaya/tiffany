@@ -1,25 +1,16 @@
-import data from './json/rings.json'
 import './css/all.css'
 
-function RingsSec(){
+function RingsSec({appointmentR}){
     return (
-        <ul className='product'>
-            {
-                data.map((item,index) => {
-                    return (
-                        <li key={index}>
-                            <figure>
-                            <img src={item.ringsImage} alt={item.ringsName} />
-                                <figcaption>
-                                    <p>{item.ringsName}</p>
-                                    <p>{item.ringsPrice}</p>
-                                </figcaption>
-                            </figure>
-                        </li>
-                    )
-                })
-            }
-        </ul>
+        <li key={appointmentR.id}>
+            <figure>
+                <img src={appointmentR.ringsImage} alt={appointmentR.ringsName} />
+                <figcaption>
+                    <p>{appointmentR.ringsName}</p>
+                    <p>{appointmentR.ringsPrice}</p>
+                </figcaption>
+            </figure>
+        </li>
     )
 }
 

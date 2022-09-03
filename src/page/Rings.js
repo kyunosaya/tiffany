@@ -2,7 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 //source
+import Search from './Search'
 import RingsSec from '../source/RingsSec'
+import ringsData from './json/rings.json'
 
 //css
 import './all.css'
@@ -17,7 +19,17 @@ function Rings(){
       </div>
     </h3>
     <section>
-      <RingsSec />
+      <Search />
+      <ul className='product'>
+        {
+          ringsData.map( item => (
+            <RingsSec 
+              key={item.id}
+              appointmentR={item}
+            />
+          ))
+        }
+      </ul>
     </section>
 </article>
   )

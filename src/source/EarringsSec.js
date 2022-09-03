@@ -1,25 +1,17 @@
-import data from './json/earrings.json'
+
 import './css/all.css'
 
-function EarringsSec(){
+function EarringsSec({appointmentE}){
     return (
-        <ul className='product'>
-            {
-                data.map((item,index) => {
-                    return (
-                        <li key={index}>
-                            <figure>
-                                <img src={item.earringsImage} alt={item.earringsName} />
-                                <figcaption>
-                                    <p>{item.earringsName}</p>
-                                    <p>{item.earringsPrice}</p>
-                                </figcaption>
-                            </figure>
-                        </li>
-                    )
-                })
-            }
-        </ul>
+        <li>
+            <figure>
+                <img src={appointmentE.earringsImage} alt={appointmentE.earringsName}/>
+                <figcaption>
+                    <p>{appointmentE.earringsName}</p>
+                    <p>{appointmentE.earringsPrice}</p>
+                </figcaption>
+            </figure>
+        </li>
     )
 }
 

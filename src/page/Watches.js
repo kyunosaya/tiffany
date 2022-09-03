@@ -2,7 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 //source
+import Search from './Search'
 import WatchesSec from '../source/WatchesSec'
+import WatchesData from './json/watches.json'
 
 //css
 import './all.css'
@@ -17,7 +19,17 @@ function Watches(){
       </div>
     </h3>
     <section>
-      <WatchesSec />
+      <Search />
+      <ul className='product'>
+        {
+          WatchesData.map( item => (
+            <WatchesSec 
+              key={item.id}
+              appointmentW={item}
+            />
+          ))
+        }
+      </ul>
     </section>
 </article>
   )
