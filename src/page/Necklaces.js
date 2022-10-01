@@ -7,8 +7,8 @@ import NecklacesSec from '../source/NecklacesSec'
 import NecklacesData from './json/necklaces.json'
 
 //css
-import './all.css'
-import './Necklaces.css'
+import './css/all.css'
+import './css/Necklaces.css'
 
 function Necklaces(){
   return (

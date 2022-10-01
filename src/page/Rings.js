@@ -7,8 +7,8 @@ import RingsSec from '../source/RingsSec'
 import ringsData from './json/rings.json'
 
 //css
-import './all.css'
-import './Rings.css'
+import './css/all.css'
+import './css/Rings.css'
 
 function Rings(){
   return (

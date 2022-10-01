@@ -5,10 +5,10 @@ function EarringsSec({appointmentE}){
     return (
         <li>
             <figure>
-                <img src={appointmentE.earringsImage} alt={appointmentE.earringsName}/>
+                <img src={appointmentE.image} alt={appointmentE.name}/>
                 <figcaption>
-                    <p>{appointmentE.earringsName}</p>
-                    <p>{appointmentE.earringsPrice}</p>
+                    <p>{appointmentE.name}</p>
+                    <p>{appointmentE.price}</p>
                 </figcaption>
             </figure>
         </li>

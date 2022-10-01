@@ -1,0 +1,8 @@
+#backW{
+    background:linear-gradient(to left, #377945, #9bc5a5);
+  }
+  #backW>div{
+    background:url('../../../public/img/main/gifts_gifts1_bg1.png') no-repeat left top;
+    background-size: 50%;
+  }
+  

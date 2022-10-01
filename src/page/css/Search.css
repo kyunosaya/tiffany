@@ -8,9 +8,9 @@
 #search .check{
     display: flex;
     padding:0 10px;
-    margin-right:400px;
+    margin-right:300px;
 }
-#search .check>p:first-child{
+#search .check>p:not(:last-child){
     margin-right:20px;
 }
 

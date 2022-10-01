@@ -1,0 +1,9 @@
+/* header */
+header{
+    background-color:#81d8d0;
+    padding:30px 0;
+    width:100%;
+  }
+header>h1{
+    text-align: center;
+  }

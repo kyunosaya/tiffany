@@ -4,10 +4,10 @@ function RingsSec({appointmentR}){
     return (
         <li key={appointmentR.id}>
             <figure>
-                <img src={appointmentR.ringsImage} alt={appointmentR.ringsName} />
+                <img src={appointmentR.image} alt={appointmentR.name} />
                 <figcaption>
-                    <p>{appointmentR.ringsName}</p>
-                    <p>{appointmentR.ringsPrice}</p>
+                    <p>{appointmentR.name}</p>
+                    <p>{appointmentR.price}</p>
                 </figcaption>
             </figure>
         </li>

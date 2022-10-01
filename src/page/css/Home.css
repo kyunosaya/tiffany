@@ -1,19 +1,20 @@
 /* sec01 */
-  article>h2{
+  article>.box{
     width:100%;
-    height:600px;
-    margin:0 auto;
-    background:linear-gradient(to bottom, pink, #d1f1ed, white);
+    height:calc(100vh - 153px);
+    margin:0 auto 100px;
+    background:url('../../../public/img/background.png') no-repeat center;
+    position: relative;
+    /* background:linear-gradient(to bottom, pink, #d1f1ed, white); */
   }
-  article>h2>div{
-    width:1200px;
-    height:100%;
-    margin:0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background:url('../../public/img/main/box01-01.png') no-repeat bottom 100px center;
-    background-size: 300px;
+  article>.box>h2{
+    margin:-75px 0 0 -405px;
+    line-height: 150px;
+    position: absolute;
+    top:50%; left:50%;
+    font-size:150px;
+    color:black;
+
   }
   article>section{
     width:1200px;

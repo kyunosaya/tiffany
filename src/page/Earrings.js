@@ -7,8 +7,8 @@ import EarringsSec from '../source/EarringsSec'
 import earringsData from './json/earrings.json'
 
 //css
-import './all.css'
-import './Earrings.css'
+import './css/all.css'
+import './css/Earrings.css'
 
 
 function Earrings(){

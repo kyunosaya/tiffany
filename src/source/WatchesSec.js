@@ -4,10 +4,10 @@ function WatchesSec({appointmentW}){
     return (
         <li key={appointmentW}>
             <figure>
-                <img src={appointmentW.watchesImage} alt={appointmentW.watchesName} />
+                <img src={appointmentW.image} alt={appointmentW.name} />
                 <figcaption>
-                    <p>{appointmentW.watchesName}</p>
-                    <p>{appointmentW.watchesPrice}</p>
+                    <p>{appointmentW.name}</p>
+                    <p>{appointmentW.price}</p>
                 </figcaption>
             </figure>
         </li>
