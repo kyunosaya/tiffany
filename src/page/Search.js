@@ -16,8 +16,8 @@ function DropDown({toggleSort,onSortByChange,sortBy}){
       <li onClick={ () => {onSortByChange('gold')} }>
         Gold {(sortBy === 'gold') && <AiOutlineCheck />}
       </li>
-      <li onClick={ () => {onSortByChange('rosegold')} }>
-        Rose Gold {(sortBy === 'rosegold') && <AiOutlineCheck />}
+      <li onClick={ () => {onSortByChange('rose')} }>
+        Rose Gold {(sortBy === 'rose') && <AiOutlineCheck />}
       </li>
       <li onClick={ () => {onSortByChange('silver')} }>
         Silver {(sortBy === 'silver') && <AiOutlineCheck />}
@@ -28,19 +28,14 @@ function DropDown({toggleSort,onSortByChange,sortBy}){
       <li onClick={ () => {onSortByChange('rest')} }>
         Rest {(sortBy === 'rest') && <AiOutlineCheck />}
       </li>
-
-      {/* <li>name <AiOutlineCheck /></li>
-      <li>price <AiOutlineCheck /></li>
-      <li>date <AiOutlineCheck /></li>
-      <li>asc <AiOutlineCheck /></li>
-      <li>desc <AiOutlineCheck /></li> */}
     </ul>
   )
 }
 
-function Search({query,onQueryChange,sortBy,onSortByChange,sortAscBy,onSortAscByChange,onOrderAscByChange}){
+function Search({query,onQueryChange,sortBy,onSortByChange,sortAscBy,onSortAscByChange}){
 
   let [toggleSort,setToggleSort] = useState(false)
+  let [checked, setChecked] = useState(true);
 
   // 중복체크안되게설정
   const checkOnlyOne = (checkThis) => {
@@ -60,13 +55,16 @@ function Search({query,onQueryChange,sortBy,onSortByChange,sortAscBy,onSortAscBy
             <input 
               type="checkbox"
               name="check"
+              // checked={checked}
               onClick={
                 () => {
                   onSortAscByChange('name')
-                }                
+                  setChecked(!checked)
+                }  
               }
-              onChange={(e) => checkOnlyOne(e.target)}
-              
+              onChange={
+                (e) => checkOnlyOne(e.target)
+              }
             /> 
             이름순
           </p>
@@ -76,7 +74,8 @@ function Search({query,onQueryChange,sortBy,onSortByChange,sortAscBy,onSortAscBy
               name="check"
               onClick={
                 () => {
-                  onOrderAscByChange('price')
+                  onSortAscByChange('price')
+                  setChecked(!checked)
                 }                
               }
               onChange={(e) => checkOnlyOne(e.target)}
@@ -89,7 +88,8 @@ function Search({query,onQueryChange,sortBy,onSortByChange,sortAscBy,onSortAscBy
               name="check"
               onClick={
                 () => {
-                  onOrderAscByChange('date')
+                  onSortAscByChange('date')
+                  setChecked(!checked)
                 }                
               }
               onChange={(e) => checkOnlyOne(e.target)}

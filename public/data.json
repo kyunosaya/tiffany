@@ -5,7 +5,7 @@
     "price":"7800",
     "image":"/img/necklaces/necklaces01.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"981730800000"
   },
   {
@@ -68,7 +68,7 @@
     "price":"7800",
     "image":"/img/necklaces/necklaces08.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1606402800000"
   },
   {
@@ -149,7 +149,7 @@
     "price":"7800",
     "image":"/img/necklaces/necklaces17.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"899996400000"
   },
   {
@@ -158,7 +158,7 @@
     "price":"7800",
     "image":"/img/necklaces/necklaces18.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"892566000000"
   },
   {
@@ -212,7 +212,7 @@
     "price":"975",
     "image":"/img/necklaces/necklaces24.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1648393200000"
   },
   {
@@ -221,7 +221,7 @@
     "price":"2000",
     "image":"/img/necklaces/necklaces25.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1522076400000"
   },
   {
@@ -230,7 +230,7 @@
     "price":"900",
     "image":"/img/necklaces/necklaces26.png",
     "kind":"necklaces",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"920386800000"
   },
   {
@@ -284,7 +284,7 @@
     "price":"2100",
     "image":"/img/earring/earrings02.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"835628400000"
   },
   {
@@ -410,7 +410,7 @@
     "price":"1600",
     "image":"/img/earring/earrings16.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1522076400000"
   },
   {
@@ -419,7 +419,7 @@
     "price":"1600",
     "image":"/img/earring/earrings17.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1648393200000"
   },
   {
@@ -437,7 +437,7 @@
     "price":"11500",
     "image":"/img/earring/earrings19.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1157900400000"
   },
   {
@@ -446,7 +446,7 @@
     "price":"11500",
     "image":"/img/earring/earrings20.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1417273200000"
   },
   {
@@ -455,7 +455,7 @@
     "price":"5900",
     "image":"/img/earring/earrings21.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1417273200000"
   },
   {
@@ -482,7 +482,7 @@
     "price":"3025",
     "image":"/img/earring/earrings24.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"899996400000"
   },
   {
@@ -491,7 +491,7 @@
     "price":"1350",
     "image":"/img/earring/earrings25.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"899996400000"
   },
   {
@@ -500,7 +500,7 @@
     "price":"2500",
     "image":"/img/earring/earrings26.png",
     "kind":"earrings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1075388400000"
   },
   {
@@ -545,7 +545,7 @@
     "price":"1990",
     "image":"/img/rings/rings01.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"899996400000"
   },
   {
@@ -590,7 +590,7 @@
     "price":"2200",
     "image":"/img/rings/rings06.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"624985200000"
   },
   {
@@ -644,7 +644,7 @@
     "price":"4200",
     "image":"/img/rings/rings12.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1179759600000"
   },
   {
@@ -689,7 +689,7 @@
     "price":"2300",
     "image":"/img/rings/rings17.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1001170800000"
   },
   {
@@ -725,7 +725,7 @@
     "price":"3250",
     "image":"/img/rings/rings21.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"947775600000"
   },
   {
@@ -752,7 +752,7 @@
     "price":"800",
     "image":"/img/rings/rings24.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"920386800000"
   },
   {
@@ -761,7 +761,7 @@
     "price":"4500",
     "image":"/img/rings/rings25.png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1027954800000"
   },
   {
@@ -788,7 +788,7 @@
     "price":"23000",
     "image":"/img/rings/rings28png",
     "kind":"rings",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1179500400000"
   },
   {
@@ -833,7 +833,7 @@
     "price":"25500",
     "image":"/img/watches/watches03.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"862326000000"
   },
   {
@@ -896,7 +896,7 @@
     "price":"6800",
     "image":"/img/watches/watches10.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1027954800000"
   },
   {
@@ -905,7 +905,7 @@
     "price":"37000",
     "image":"/img/watches/watches11.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1462374000000"
   },
   {
@@ -941,7 +941,7 @@
     "price":"23000",
     "image":"/img/watches/watches15.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"981730800000"
   },
   {
@@ -977,7 +977,7 @@
     "price":"15500",
     "image":"/img/watches/watches19.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1331391600000"
   },
   {
@@ -1058,7 +1058,7 @@
     "price":"30000",
     "image":"/img/watches/watches28.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":"1167404400000"
   },
   {

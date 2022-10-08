@@ -16,11 +16,10 @@ function Watches(){
   //state 설정
   let [appointmentList,setAppointmentList] = useState([])
   // sort(metal)
-  let [sortBy,setSortBy] = useState('gold')
+  let [sortBy,setSortBy] = useState('')
 
   // checkbox
-  let [sortAscBy,setSortAscBy] = useState('')
-  let [orderAscBy,setOrderAscBy] = useState('')
+  let [sortAscBy,setSortAscBy] = useState('name')
 
   //callback
   const fetchData = useCallback( () => {
@@ -32,32 +31,22 @@ function Watches(){
   //effect
   useEffect( () => {fetchData()} , [fetchData] )
 
-    // namesearch
-    let [query,setQuery] = useState('')
-    const filterAppointment = appointmentList.filter(
-      item => {
+
+      // namesearch
+      let [query,setQuery] = useState('')
+      const filterAppointment = appointmentList.filter(
+        item => {
+          return (
+            item.name.toLowerCase().includes(query.toLowerCase()) && 
+            item.metal.includes(sortBy)
+          )
+        }
+      ).sort( (a,b) => {
+        let sorter = (sortAscBy === 'name')? 1 : -1 ;
         return (
-          item.name.toLowerCase().includes(query.toLowerCase()) && 
-          item.metal === sortBy
+          a[sortAscBy] > b[sortAscBy] ? 1 * sorter : -1 * sorter
         )
-      }
-    ).sort( (a,b) => {
-      if(a[sortAscBy] > b[sortAscBy]){
-        return 1;
-      }
-      else if(a[sortAscBy] < b[sortAscBy]){
-        return -1;
-      }
-      return 0;
-    }).sort( (a,b) => {
-      if(a[orderAscBy] > b[orderAscBy]){
-        return -1;
-      }
-      else if(a[orderAscBy] < b[orderAscBy]){
-        return 1;
-      }
-      return 0;
-    } )
+      })
 
   return (
     <article>
@@ -74,7 +63,6 @@ function Watches(){
         onSortByChange = {mySort => setSortBy(mySort)}
         sortAscBy={sortAscBy}
         onSortAscByChange={mySort => setSortAscBy(mySort)}
-        onOrderAscByChange={myorder => setOrderAscBy(myorder)}
       />
       <ul className="product">
         {

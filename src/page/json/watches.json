@@ -23,7 +23,7 @@
     "price":25500,
     "image":"/img/watches/watches03.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":-4184900872000
   },
   {
@@ -86,7 +86,7 @@
     "price":6800,
     "image":"/img/watches/watches10.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":1027954800000
   },
   {
@@ -95,7 +95,7 @@
     "price":37000,
     "image":"/img/watches/watches11.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":1462374000000
   },
   {
@@ -131,7 +131,7 @@
     "price":23000,
     "image":"/img/watches/watches15.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":981730800000
   },
   {
@@ -167,7 +167,7 @@
     "price":15500,
     "image":"/img/watches/watches19.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":1331391600000
   },
   {
@@ -248,7 +248,7 @@
     "price":30000,
     "image":"/img/watches/watches28.png",
     "kind":"watches",
-    "metal":"rosegold",
+    "metal":"rose",
     "date":1167404400000
   },
   {
