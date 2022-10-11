@@ -6,7 +6,7 @@
 }
 
 nav{
-    background-color:pink;
+  background-color:rgb(86, 44, 99);
     width:100%;
   }
   nav>div{
@@ -23,4 +23,4 @@ nav{
   nav ul a{
     color:white;
     text-decoration:none;
-  }
+  } 

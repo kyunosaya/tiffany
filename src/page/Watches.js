@@ -53,6 +53,7 @@ function Watches(){
     <h3 id="backW">
       <div>
         <span>Watches</span>
+        <p>Try buying a watch at Tiffany Co. We have a variety of designs are available. There are various kinds of metal watches such as diamonds, gold, silver, rose gold, and platinum. Were you looking for a watch that would make your wrist shine beautifully? Then think about it while looking at our watches.</p>
       </div>
     </h3>
     <section>
