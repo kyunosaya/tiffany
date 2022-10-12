@@ -18,7 +18,7 @@ function Home({appointment,id,name}){
           <p>Charles Lewis Tiffany’s passion for acquiring rare and unusual gemstones paved the way for Tiffany &amp; Co.’s longstanding legacy of discovery and exploration, establishing the company’s reputation as a world-renowned jeweler.</p>
         </div>
         <div className="image">
-          <img src="./img/tiffanygift.png" alt="제품01" />
+          <img src="./img/tiffanygift_p.png" alt="제품01" />
         </div>
       </section>
     </section>

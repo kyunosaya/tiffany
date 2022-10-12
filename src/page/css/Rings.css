@@ -1,9 +1,10 @@
 #backR{
-    background:linear-gradient(to right, #ffaa00, #ffeece);
+    background:linear-gradient(to right, #abaaeb, #c4aac0);
   }
   #backR>div{
-    background:url('../../../public/img/main/gifts_gifts1_bg2.png') no-repeat right top 50px,
-    url('../../../public/img/main/gifts_gifts2_bg2.png') no-repeat left bottom;
-    
+    background:url('../../../public/img/main/rings02.png') no-repeat bottom
+               left / 30%,
+               url('../../../public/img/main/rings03.png') no-repeat right bottom 100px / 20%,
+               url('../../../public/img/main/rings04.png') no-repeat right 100px top 300px /300px;
   }
   

@@ -2,8 +2,8 @@
     background:linear-gradient(to left, #caafbf, #d4aeb3);
   }
   #backW>div{
-    background:url('../../../public/img/box01/watches02.png') no-repeat left bottom / 40%,
-    url('../../../public/img/box01/watches03.png') no-repeat right 30px,
-    url('../../../public/img/box01/watches04.png') no-repeat 870px 250px / 10%;
+    background:url('../../../public/img/main/watches02.png') no-repeat left bottom / 40%,
+    url('../../../public/img/main/watches03.png') no-repeat right 30px,
+    url('../../../public/img/main/watches04.png') no-repeat 870px 250px / 10%;
   }
   

@@ -2,271 +2,271 @@
   {
     "id":0,
     "name":"Tiffany T T1 circle pendant in 18k rose gold with diamonds",
-    "price":"7800",
+    "price":7800,
     "image":"/img/necklaces/necklaces01.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"981730800000"
+    "metal":"rose",
+    "date":981730800000
   },
   {
     "id":1,
     "name":"Tiffany T Smile Pendant in Yellow Gold, Small",
-    "price":"990",
+    "price":990,
     "image":"/img/necklaces/necklaces02.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"1307804400000"
+    "date":1307804400000
   },
   {
     "id":2,
     "name":"Tiffany HardWear graduated link necklace in sterling silver",
-    "price":"2600",
+    "price":2600,
     "image":"/img/necklaces/necklaces03.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"1402498800000"
+    "date":1402498800000
   },
   {
     "id":3,
     "name":"Elsa Peretti Diamonds by the Yard® Single Diamond Pendant in Platinum",
-    "price":"900",
+    "price":900,
     "image":"/img/necklaces/necklaces04.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"1179500400000"
+    "date":1179500400000
   },
   {
     "id":4,
     "name":"Tiffany Victoria diamond vine pendant in 18k rose gold.",
-    "price":"7800",
+    "price":7800,
     "image":"/img/necklaces/necklaces05.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"920386800000"
+    "date":920386800000
   },
   {
     "id":5,
     "name":"Tiffany Signature Pearls pendant in 18k white gold with a pearl and a diamond.",
-    "price":"900",
+    "price":900,
     "image":"/img/necklaces/necklaces06.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"928422000000"
+    "date":928422000000
   },
   {
     "id":6,
     "name":"Tiffany Victoria pendant in platinum with diamonds, large.",
-    "price":"12500",
+    "price":12500,
     "image":"/img/necklaces/necklaces07.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"1232722800000"
+    "date":1232722800000
   },
   {
     "id":7,
     "name":"Tiffany T T1 circle pendant in 18k rose gold with diamonds",
-    "price":"7800",
+    "price":7800,
     "image":"/img/necklaces/necklaces08.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"1606402800000"
+    "metal":"rose",
+    "date":1606402800000
   },
   {
     "id":8,
     "name":"Tiffany & Co. Schlumberger® Lynn pendant in 18k gold with diamonds in platinum.",
-    "price":"2950",
+    "price":2950,
     "image":"/img/necklaces/necklaces09.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"1665586800000"
+    "date":1665586800000
   },
   {
     "id":9,
     "name":"Elsa Peretti Color by the Yard Aquamarine Pendant in Silver",
-    "price":"550",
+    "price":550,
     "image":"/img/necklaces/necklaces10.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"1097593200000"
+    "date":1097593200000
   },
   {
     "id":10,
     "name":"Elsa Peretti® Color by the Yard Pendant in Yellow Gold with an Emerald",
-    "price":"1350",
+    "price":1350,
     "image":"/img/necklaces/necklaces11.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"624985200000"
+    "date":624985200000
   },
   {
     "id":11,
     "name":"Elsa Peretti Open Heart pendant in sterling silver and 18k rose gold.",
-    "price":"900",
+    "price":900,
     "image":"/img/necklaces/necklaces12.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"945356400000"
+    "date":945356400000
   },
   {
     "id":12,
     "name":"Return to Tiffany Heart Tag Toggle Necklace in Silver",
-    "price":"800",
+    "price":800,
     "image":"/img/necklaces/necklaces13.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"948034800000"
+    "date":948034800000
   },
   {
     "id":13,
     "name":"Return to Tiffany® Wrap Necklace in Silver with Pearls and a Diamond, Small",
-    "price":"1350",
+    "price":1350,
     "image":"/img/necklaces/necklaces14.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"967388400000"
+    "date":967388400000
   },
   {
     "id":14,
     "name":"Tiffany Solitaire Diamond Pendant in Platinum",
-    "price":"1200",
+    "price":1200,
     "image":"/img/necklaces/necklaces15.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"-54464400000"
+    "date":-54464400000
   },
   {
     "id":15,
     "name":"Paloma Picasso® Olive Leaf heart pendant in sterling silver.",
-    "price":"325",
+    "price":325,
     "image":"/img/necklaces/necklaces16.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"-289470600000"
+    "date":-289470600000
   },
   {
     "id":16,
     "name":"Tiffany T T1 circle pendant in 18k rose gold with diamonds",
-    "price":"7800",
+    "price":7800,
     "image":"/img/necklaces/necklaces17.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"899996400000"
+    "metal":"rose",
+    "date":899996400000
   },
   {
     "id":17,
     "name":"Tiffany T T1 circle pendant in 18k rose gold with diamonds",
-    "price":"7800",
+    "price":7800,
     "image":"/img/necklaces/necklaces18.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"892566000000"
+    "metal":"rose",
+    "date":892566000000
   },
   {
     "id":18,
     "name":"Paloma Picasso Olive Leaf pendant in sterling silver, small.",
-    "price":"450",
+    "price":450,
     "image":"/img/necklaces/necklaces19.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"1075388400000"
+    "date":1075388400000
   },
   {
     "id":19,
     "name":"Tiffany HardWear Pearl Lock Necklace in Silver, 9-10 mm",
-    "price":"3200",
+    "price":3200,
     "image":"/img/necklaces/necklaces20.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"1064156400000"
+    "date":1064156400000
   },
   {
     "id":20,
     "name":"Elsa Peretti Alphabet pendant in 18k gold. Letters A-Z available.",
-    "price":"1125",
+    "price":1125,
     "image":"/img/necklaces/necklaces21.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"1157900400000"
+    "date":1157900400000
   },
   {
     "id":21,
     "name":"Tiffany Soleste pendant in platinum with a sapphire and diamonds.",
-    "price":"4700",
+    "price":4700,
     "image":"/img/necklaces/necklaces22.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":22,
     "name":"Elsa Peretti® Open Heart Lariat Necklace in Silver with Pearls, 9-9.5 mm",
-    "price":"675",
+    "price":675,
     "image":"/img/necklaces/necklaces23.png",
     "kind":"necklaces",
     "metal":"silver",
-    "date":"768063600000"
+    "date":768063600000
   },
   {
     "id":23,
     "name":"Tiffany Keys heart key pendant in 18k rose gold, mini.",
-    "price":"975",
+    "price":975,
     "image":"/img/necklaces/necklaces24.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"1648393200000"
+    "metal":"rose",
+    "date":1648393200000
   },
   {
     "id":24,
     "name":"Atlas X Closed Interlocking Pendant in Rose Gold",
-    "price":"2000",
+    "price":2000,
     "image":"/img/necklaces/necklaces25.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"1522076400000"
+    "metal":"rose",
+    "date":1522076400000
   },
   {
     "id":25,
     "name":"Paloma's Graffiti kiss pendant in 18k rose gold, mini.",
-    "price":"900",
+    "price":900,
     "image":"/img/necklaces/necklaces26.png",
     "kind":"necklaces",
-    "metal":"rosegold",
-    "date":"920386800000"
+    "metal":"rose",
+    "date":920386800000
   },
   {
     "id":26,
     "name":"Tiffany T Circle Pendant in Yellow Gold with Green Agate and Diamonds",
-    "price":"3100",
+    "price":3100,
     "image":"/img/necklaces/necklaces27.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"1417273200000"
+    "date":1417273200000
   },
   {
     "id":27,
     "name":"Elsa Peretti Diamonds by the Yard sprinkle necklace in platinum.",
-    "price":"11000",
+    "price":11000,
     "image":"/img/necklaces/necklaces28.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"1515596400000"
+    "date":1515596400000
   },
   {
     "id":28,
     "name":"Tiffany Soleste pendant in platinum with an aquamarine and diamonds.",
-    "price":"8000",
+    "price":8000,
     "image":"/img/necklaces/necklaces29.png",
     "kind":"necklaces",
     "metal":"platinum",
-    "date":"920559600000"
+    "date":920559600000
   },
   {
     "id":29,
     "name":"Elsa Peretti Diamonds by the Yard necklace in 18k gold.",
-    "price":"2150",
+    "price":2150,
     "image":"/img/necklaces/necklaces30.png",
     "kind":"necklaces",
     "metal":"gold",
-    "date":"1417273200000"
+    "date":1417273200000
   }
 ]

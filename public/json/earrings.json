@@ -2,271 +2,271 @@
   {
     "id":30,
     "name":"Tiffany T T1 open hoop earrings in 18k gold with diamonds.",
-    "price":"8500",
+    "price":8500,
     "image":"/img/earring/earrings01.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"1623337200000"
+    "date":1623337200000
   },
   {
     "id":31,
     "name":"Tiffany T smile earrings in 18k rose gold with diamonds.",
-    "price":"2100",
+    "price":2100,
     "image":"/img/earring/earrings02.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"835628400000"
+    "metal":"rose",
+    "date":835628400000
   },
   {
     "id":32,
     "name":"Tiffany T hoop earrings in 18k gold, medium.",
-    "price":"1500",
+    "price":1500,
     "image":"/img/earring/earrings03.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"1207926000000"
+    "date":1207926000000
   },
   {
     "id":33,
     "name":"Tiffany HardWear Triple Drop Link Earrings in Yellow Gold with Freshwater Pearls",
-    "price":"2400",
+    "price":2400,
     "image":"/img/earring/earrings04.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"1623337200000"
+    "date":1623337200000
   },
   {
     "id":34,
     "name":"Tiffany HardWear pearl hoop earrings in sterling silver.",
-    "price":"875",
+    "price":875,
     "image":"/img/earring/earrings05.png",
     "kind":"earrings",
     "metal":"silver",
-    "date":"1417273200000"
+    "date":1417273200000
   },
   {
     "id":35,
     "name":"Elsa Peretti® Pearls by the Yard™ chain earrings in 18k gold.",
-    "price":"750",
+    "price":750,
     "image":"/img/earring/earrings06.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"920386800000"
+    "date":920386800000
   },
   {
     "id":36,
     "name":"Tiffany Signature® Pearls Stud Earrings in White Gold with Diamonds, 7-7.5 mm.",
-    "price":"1600",
+    "price":1600,
     "image":"/img/earring/earrings07.png",
     "kind":"earrings",
     "metal":"rest",
-    "date":"1331391600000"
+    "date":1331391600000
   },
   {
     "id":37,
     "name":"Tiffany & Co. Schlumberger Lynn earrings in platinum with diamonds.",
-    "price":"3750",
+    "price":3750,
     "image":"/img/earring/earrings08.png",
     "kind":"earrings",
     "metal":"platinum",
-    "date":"1462374000000"
+    "date":1462374000000
   },
   {
     "id":38,
     "name":"Tiffany Knot Earrings in Yellow Gold with Diamonds",
-    "price":"3200",
+    "price":3200,
     "image":"/img/earring/earrings09.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"1571324400000"
+    "date":1571324400000
   },
   {
     "id":39,
     "name":"Elsa Peretti® Diamonds by the Yard® drop earrings in 18k gold.",
-    "price":"3300",
+    "price":3300,
     "image":"/img/earring/earrings10.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"1270998000000"
+    "date":1270998000000
   },
   {
     "id":40,
     "name":"Elsa Peretti® Diamonds by the Yard® Earrings in Platinum",
-    "price":"1150",
+    "price":1150,
     "image":"/img/earring/earrings11.png",
     "kind":"earrings",
     "metal":"platinum",
-    "date":"1270998000000"
+    "date":1270998000000
   },
   {
     "id":41,
     "name":"Paloma Picasso® Olive Leaf hoop earrings in sterling silver.",
-    "price":"2300",
+    "price":2300,
     "image":"/img/earring/earrings12.png",
     "kind":"earrings",
     "metal":"silver",
-    "date":"1064156400000"
+    "date":1064156400000
   },
   {
     "id":42,
     "name":"Tiffany Metro Hoop Earrings in Rose Gold with Diamonds, Small",
-    "price":"3400",
+    "price":3400,
     "image":"/img/earring/earrings13.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"1157900400000"
+    "date":1157900400000
   },
   {
     "id":43,
     "name":"Tiffany Soleste® earrings in platinum with aquamarines and diamonds.",
-    "price":"6900",
+    "price":6900,
     "image":"/img/earring/earrings14.png",
     "kind":"earrings",
     "metal":"platinum",
-    "date":"1064156400000"
+    "date":1064156400000
   },
   {
     "id":44,
     "name":"Elsa Peretti® Open Heart Stud Earrings in Silver, 11 mm",
-    "price":"375",
+    "price":375,
     "image":"/img/earring/earrings15.png",
     "kind":"earrings",
     "metal":"silver",
-    "date":"1417273200000"
+    "date":1417273200000
   },
   {
     "id":45,
     "name":"Elsa Peretti® Diamonds by the Yard Open Heart earrings in 18k rose gold.",
-    "price":"1600",
+    "price":1600,
     "image":"/img/earring/earrings16.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"1522076400000"
+    "metal":"rose",
+    "date":1522076400000
   },
   {
     "id":46,
     "name":"Diamonds by the Yard Open Heart earrings in 18k rose gold.",
-    "price":"1600",
+    "price":1600,
     "image":"/img/earring/earrings17.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"1648393200000"
+    "metal":"rose",
+    "date":1648393200000
   },
   {
     "id":47,
     "name":"Elsa Peretti® Color by the Yard earrings in silver with turquoise..",
-    "price":"675",
+    "price":675,
     "image":"/img/earring/earrings18.png",
     "kind":"earrings",
     "metal":"silver",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":48,
     "name":"Tiffany Victoria® earrings in 18k rose gold with diamonds, medium.",
-    "price":"11500",
+    "price":11500,
     "image":"/img/earring/earrings19.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"1157900400000"
+    "metal":"rose",
+    "date":1157900400000
   },
   {
     "id":49,
     "name":"Tiffany Victoria® diamond vine circle earrings in 18k rose gold, small.",
-    "price":"11500",
+    "price":11500,
     "image":"/img/earring/earrings20.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"1417273200000"
+    "metal":"rose",
+    "date":1417273200000
   },
   {
     "id":50,
     "name":"Paloma's Sugar Stacks earrings in 18k rose gold with diamonds.",
-    "price":"5900",
+    "price":5900,
     "image":"/img/earring/earrings21.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"1417273200000"
+    "metal":"rose",
+    "date":1417273200000
   },
   {
     "id":51,
     "name":"Return to Tiffany® Heart Tag Earrings in Sterling Silver with a Diamond, Mini",
-    "price":"500",
+    "price":500,
     "image":"/img/earring/earrings22.png",
     "kind":"earrings",
     "metal":"silver",
-    "date":"1157900400000"
+    "date":1157900400000
   },
   {
     "id":52,
     "name":"Tiffany Victoria® Vine Drop Earrings in Yellow Gold with Diamonds",
-    "price":"14800",
+    "price":14800,
     "image":"/img/earring/earrings23.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"967388400000"
+    "date":967388400000
   },
   {
     "id":53,
     "name":"Elsa Peretti® Mesh earrings in 18k rose gold, small.",
-    "price":"3025",
+    "price":3025,
     "image":"/img/earring/earrings24.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"899996400000"
+    "metal":"rose",
+    "date":899996400000
   },
   {
     "id":54,
     "name":"Atlas X Earrings in Rose Gold with Diamonds",
-    "price":"1350",
+    "price":1350,
     "image":"/img/earring/earrings25.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"899996400000"
+    "metal":"rose",
+    "date":899996400000
   },
   {
     "id":55,
-    "name":"eart earrings in 18k rose gold with diamonds, extra mini.",
-    "price":"2500",
+    "name":"Eart earrings in 18k rose gold with diamonds, extra mini.",
+    "price":2500,
     "image":"/img/earring/earrings26.png",
     "kind":"earrings",
-    "metal":"rosegold",
-    "date":"1075388400000"
+    "metal":"rose",
+    "date":1075388400000
   },
   {
     "id":56,
     "name":"Tiffany T black onyx circle earrings in 18k gold.",
-    "price":"2100",
+    "price":2100,
     "image":"/img/earring/earrings27.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"892566000000"
+    "date":892566000000
   },
   {
     "id":57,
     "name":"Inside-out hoop earrings of diamonds in platinum.",
-    "price":"7900",
+    "price":7900,
     "image":"/img/earring/earrings28.png",
     "kind":"earrings",
     "metal":"platinum",
-    "date":"967388400000"
+    "date":967388400000
   },
   {
     "id":58,
     "name":"Paloma Picasso® Loving Heart earrings in 18k white gold with diamonds, mini.",
-    "price":"3700",
+    "price":3700,
     "image":"/img/earring/earrings29.png",
     "kind":"earrings",
     "metal":"rest",
-    "date":"-54464400000"
+    "date":-54464400000
   },
   {
     "id":59,
     "name":"Tiffany & Co. Schlumberger® Lynn earrings in 18k gold with rubies.",
-    "price":"3250",
+    "price":3250,
     "image":"/img/earring/earrings30.png",
     "kind":"earrings",
     "metal":"gold",
-    "date":"967388400000"
+    "date":967388400000
   }
 ]

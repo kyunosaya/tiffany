@@ -1,4 +1,3 @@
-
 import './css/all.css'
 
 function EarringsSec({appointmentE}){

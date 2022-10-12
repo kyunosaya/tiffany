@@ -2,271 +2,271 @@
   {
     "id":60,
     "name":"Tiffany T T1 Ring in Rose Gold with Diamonds, 2.5 mm",
-    "price":"1990",
+    "price":1990,
     "image":"/img/rings/rings01.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"899996400000"
+    "date":899996400000
   },
   {
     "id":61,
     "name":"Tiffany T T1 Ring in Yellow Gold, 2.5 mm Wide",
-    "price":"1100",
+    "price":1100,
     "image":"/img/rings/rings02.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":62,
     "name":"Tiffany T Square Ring in Silver",
-    "price":"450",
+    "price":450,
     "image":"/img/rings/rings03.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"1417273200000"
+    "date":1417273200000
   },
   {
     "id":63,
     "name":"Tiffany T diamond wire ring in 18k white gold..",
-    "price":"2200",
+    "price":2200,
     "image":"/img/rings/rings04.png",
     "kind":"rings",
     "metal":"rest",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":64,
     "name":"Tiffany Knot Ring in Yellow Gold with Diamonds",
-    "price":"1990",
+    "price":1990,
     "image":"/img/rings/rings05.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"967388400000"
+    "date":967388400000
   },
   {
     "id":65,
     "name":"Tiffany Knot Double Row Ring in Rose Gold",
-    "price":"2200",
+    "price":2200,
     "image":"/img/rings/rings06.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"624985200000"
+    "date":624985200000
   },
   {
     "id":66,
     "name":"Tiffany HardWear two-row ring in sterling silver.",
-    "price":"500",
+    "price":500,
     "image":"/img/rings/rings07.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"1167404400000"
+    "date":1167404400000
   },
   {
     "id":67,
     "name":"Tiffany HardWear freshwater pearl ring in sterling silver.",
-    "price":"750",
+    "price":750,
     "image":"/img/rings/rings08.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"1179500400000"
+    "date":1179500400000
   },
   {
     "id":68,
     "name":"Tiffany & Co. Schlumberger® Lynn ring in platinum with diamonds.",
-    "price":"3250",
+    "price":3250,
     "image":"/img/rings/rings09.png",
     "kind":"rings",
     "metal":"platinum",
-    "date":"1047135600000"
+    "date":1047135600000
   },
   {
     "id":69,
     "name":"Tiffany & Co. Schlumberger® Sixteen Stone ring with diamonds.",
-    "price":"11200",
+    "price":11200,
     "image":"/img/rings/rings10.png",
     "kind":"rings",
     "metal":"rest",
-    "date":"1047135600000"
+    "date":1047135600000
   },
   {
     "id":70,
     "name":"Tiffany Victoria® Vine Bypass Ring in Yellow Gold with Diamonds",
-    "price":"5300",
+    "price":5300,
     "image":"/img/rings/rings11.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":71,
     "name":"Tiffany Victoria® Vine Band Ring in Rose Gold with Diamonds, 6 mm Wide",
-    "price":"4200",
+    "price":4200,
     "image":"/img/rings/rings12.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"1179759600000"
+    "date":1179759600000
   },
   {
     "id":72,
     "name":"Tiffany Soleste V ring in platinum with diamonds.",
-    "price":"2250",
+    "price":2250,
     "image":"/img/rings/rings13.png",
     "kind":"rings",
     "metal":"platinum",
-    "date":"821977200000"
+    "date":821977200000
   },
   {
     "id":73,
     "name":"Tiffany Soleste® Full Eternity Ring in Yellow Gold with Diamonds",
-    "price":"3750",
+    "price":3750,
     "image":"/img/rings/rings14.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":74,
     "name":"Tiffany Embrace® band ring in platinum with diamonds, 3 mm wide.",
-    "price":"6000",
+    "price":6000,
     "image":"/img/rings/rings15.png",
     "kind":"rings",
     "metal":"platinum",
-    "date":"1179500400000"
+    "date":1179500400000
   },
   {
     "id":75,
     "name":"Tiffany Embrace® band ring in 18k gold with diamonds, 3.5 mm wide.",
-    "price":"8500",
+    "price":8500,
     "image":"/img/rings/rings16.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"1309878000000"
+    "date":1309878000000
   },
   {
     "id":76,
     "name":"Paloma Picasso® Olive Leaf Band Ring in Rose Gold",
-    "price":"2300",
+    "price":2300,
     "image":"/img/rings/rings17.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"1001170800000"
+    "date":1001170800000
   },
   {
     "id":77,
     "name":"Paloma Picasso® Olive Leaf Band Ring in Yellow Gold, Narrow",
-    "price":"1000",
+    "price":1000,
     "image":"/img/rings/rings18.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"920386800000"
+    "date":920386800000
   },
   {
     "id":78,
     "name":"Tiffany 1837® Interlocking Circles Ring in Silver",
-    "price":"450",
+    "price":450,
     "image":"/img/rings/rings19.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"-4184900872000"
+    "date":-4184900872000
   },
   {
     "id":79,
     "name":"Tiffany 1837® Ring in Silver with Montana Sapphires, Narrow",
-    "price":"500",
+    "price":500,
     "image":"/img/rings/rings20.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"-4184900872000"
+    "date":-4184900872000
   },
   {
     "id":80,
     "name":"Tiffany & Co. Schlumberger® Lynn ring in 18k rose gold with diamonds.",
-    "price":"3250",
+    "price":3250,
     "image":"/img/rings/rings21.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"947775600000"
+    "date":947775600000
   },
   {
     "id":81,
     "name":"Tiffany & Co. Schlumberger® Sixteen Stone ring with diamonds and sapphires.",
-    "price":"10200",
+    "price":10200,
     "image":"/img/rings/rings22.png",
     "kind":"rings",
     "metal":"rest",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":82,
     "name":"Elsa Peretti® Open Heart ring in sterling silver, small",
-    "price":"400",
+    "price":400,
     "image":"/img/rings/rings23.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"624985200000"
+    "date":624985200000
   },
   {
     "id":83,
     "name":"Paloma's Graffiti love & kisses ring in 18k rose gold.",
-    "price":"800",
+    "price":800,
     "image":"/img/rings/rings24.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"920386800000"
+    "date":920386800000
   },
   {
     "id":84,
     "name":"Elsa Peretti® Diamond Hoop three-row ring in 18k rose gold with diamonds.",
-    "price":"4500",
+    "price":4500,
     "image":"/img/rings/rings25.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":85,
     "name":"Elsa Peretti® Wave three-row diamond ring in 18k gold.",
-    "price":"2500",
+    "price":2500,
     "image":"/img/rings/rings26.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":86,
     "name":"Return to Tiffany® Heart Signet Ring in Silver, Small",
-    "price":"3250",
+    "price":3250,
     "image":"/img/rings/rings27.png",
     "kind":"rings",
     "metal":"silver",
-    "date":"1027954800000"
+    "date":1027954800000
   },
   {
     "id":87,
     "name":"Tiffany Victoria® diamond vine band ring in 18k rose gold.",
-    "price":"23000",
-    "image":"/img/rings/rings28png",
+    "price":23000,
+    "image":"/img/rings/rings28.png",
     "kind":"rings",
     "metal":"rose",
-    "date":"1179500400000"
+    "date":1179500400000
   },
   {
     "id":88,
     "name":"Tiffany T turquoise wire ring in 18k gold.",
-    "price":"1650",
+    "price":1650,
     "image":"/img/rings/rings29.png",
     "kind":"rings",
     "metal":"gold",
-    "date":"1179500400000"
+    "date":1179500400000
   },
   {
     "id":89,
     "name":"Tiffany & Co. Schlumberger® Sixteen Stone ring with diamonds and tsavorites.",
-    "price":"9600",
+    "price":9600,
     "image":"/img/rings/rings30.png",
     "kind":"rings",
     "metal":"rest",
-    "date":"1179500400000"
+    "date":1179500400000
   }
 ]

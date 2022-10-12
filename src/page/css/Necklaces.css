@@ -1,9 +1,11 @@
   #backN{
-    background:linear-gradient(to bottom, #6ebcb5, #d1f1ed, white);
+    background:linear-gradient(to top, #cda2bb, rgb(216, 181, 236));
 
   }
-  #backN>div{
-    background:url('../../../public/img/main/gifts_gifts1_bg2.png') no-repeat left bottom 50px, 
-               url('../../../public/img/main/gifts_gifts1_bg1.png') no-repeat right top;
+  #backN section{
+    background:url('../../../public/img/main/necklaces03.png') no-repeat left center / contain;
+  }
+  #backN div{
+    background:url('../../../public/img/main/gifts_gifts1_bg1.png') no-repeat right top;
   }
   

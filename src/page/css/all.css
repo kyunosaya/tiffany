@@ -23,12 +23,15 @@ h3{
   height:calc(100vh - 153px);
   margin-bottom: 100px;
 }
-h3>div{
+h3 section{
+  width:100%; height:100%;
+}
+h3 div{
   width:1200px; height:100%;
   margin:0 auto;
   position:relative;
 }
-h3>div>span{
+h3 div>span{
   display: block;
   position:absolute;
   left:0; top:35%;
@@ -40,7 +43,7 @@ h3>div>span{
   text-align: center;
   text-shadow:3px 3px 5px rgba(0,0,0,0.7)
 }
-h3>div>p{
+h3 div>p{
   display: block;
   position:absolute;
   left:50%; top:35%;

@@ -5,7 +5,7 @@ import {useState,useEffect,useCallback} from 'react'
 // source
 import './css/Search.css'
 import { AiOutlineDown,AiOutlineCheck } from "react-icons/ai";
-import WatchesData from './json/watches.json'
+// import WatchesData from './json/watches.json'
 
 function DropDown({toggleSort,onSortByChange,sortBy}){
   if(!toggleSort){
@@ -76,7 +76,7 @@ function Search({query,onQueryChange,sortBy,onSortByChange,sortAscBy,onSortAscBy
                 () => {
                   onSortAscByChange('price')
                   setChecked(!checked)
-                }                
+                }
               }
               onChange={(e) => checkOnlyOne(e.target)}
             /> 

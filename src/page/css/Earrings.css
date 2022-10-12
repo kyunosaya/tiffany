@@ -1,7 +1,10 @@
   #backE{
     background:linear-gradient(45deg, #f4e5ee 15%,  #c6beda 80%)
   }
-  #backE>div{
-    background:url('../../../public/img/main/gifts_gifts2_bg2.png') no-repeat right bottom;
+  #backE section{
+    background:url('../../../public/img/main/earrings01.png') no-repeat right center / contain;
+  }
+  #backE div{
+    background:url('../../../public/img/main/earrings03.png') no-repeat left 130px top 250px / 20%;
   }
   
